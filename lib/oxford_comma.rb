@@ -5,8 +5,9 @@ def oxford_comma(array)
   output.unshift(array.pop())
 
   output.unshift(array.join(", "))
-binding.pry
+
   output.join("and")
+  binding.pry
 output
 end
 
