@@ -7,6 +7,7 @@ def oxford_comma(array)
   array.insert(-1,"and")
 # binding.pry
   output.unshift(array.join(", "))
+  output.join()
 # binding.pry
   # output.join("and")
   binding.pry
