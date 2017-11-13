@@ -10,6 +10,4 @@ def oxford_comma(array)
   # output.join()
 # binding.pry
   # output.join("and")
-
-output
 end
