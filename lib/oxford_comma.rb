@@ -10,4 +10,4 @@ def oxford_comma(array)
 output
 end
 
-oxford_comma
+oxford_comma([1,2,3])
